@@ -1,7 +1,9 @@
 #!/usr/bin/python3
+"""creating  class called a square"""
 
 
 class Square:
+""" a class with 3 methids inside it """
 
     width = 0
     height = 0
